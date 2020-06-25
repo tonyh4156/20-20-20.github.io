@@ -1,5 +1,5 @@
 # Introduction
 
-## How to Install
+## How to Install (Latest version: 1.0)
 
 ### Donations
