@@ -8,11 +8,13 @@ In today's society, many people spend a lot of time working with their computers
 ---------
 Step 1: Download the [.app](https://github.com/tonyh4156/20-20-20/releases/) file and once finished, drag the file into the Applications folder
 
-Step 2: Locate the app called 20-20-20 and open it
+Step 2: Locate the app called 20-20-20 and open it. If it doesn't open, go to step 3. Otherwise, go to step 4.
 
-Step 3: Accept the notification permissions
+Step 3: Go to System Preferences -> Security & Privacy -> General -> Open Anyway
 
-(Extra): If you would like the app to launch at startup, go to System Preferences -> Users & Groups -> Login Items -> Add "20-20-20.app"
+Step 4: Accept the notification permissions if prompted
+
+Extra: If you would like the app to launch at startup, go to System Preferences -> Users & Groups -> Login Items -> Add "20-20-20.app"
 
 ### Windows
 -----------
