@@ -1,11 +1,9 @@
 # Introduction
 --------------
-Today, many people spend a lot of time working with their computers, often leading to eye fatigue. Fortunately, there is a trick called the 20-20-20 rule where a person for every 20 minutes, looks at something 20 feet away for 20 seconds. The application below attempts to provide users with reminders that follow the rule and attempts to relieve some eye strain.
+Welcome! Today, many people spend a lot of time working with their computers, often leading to eye fatigue. Fortunately, there is a trick called the 20-20-20 rule where a person, for every 20 minutes, looks at something 20 feet away for 20 seconds. The application below attempts to provide users with consistent reminders that follow the rule and attempts to relieve some eye strain.
 
 ## How to Install
 -----------------
-Latest version: 1.0
-
 ### MacOS
 ---------
 Step 1: Download the .app file and once finished, drag the file into the Applications folder
@@ -22,6 +20,7 @@ Coming soon!
 
 ## Feedback
 -----------
+https://forms.gle/QHAoygp3P2bHDZMx5
 
 ## Donations
 ------------
