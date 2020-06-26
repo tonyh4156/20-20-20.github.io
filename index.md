@@ -6,7 +6,7 @@ Welcome! Today, many people spend a lot of time working with their computers, of
 -----------------
 ### MacOS
 ---------
-Step 1: Download the [.app](https://drive.google.com/file/d/1P9gO0BdAJAFNjQ-QsP5PntHW1cH6B0y1/view?usp=sharing) file and once finished, drag the file into the Applications folder
+Step 1: Download the [.app](https://github.com/tonyh4156/20-20-20/releases/) file and once finished, drag the file into the Applications folder
 
 Step 2: Locate the app called 20-20-20 and open it
 
