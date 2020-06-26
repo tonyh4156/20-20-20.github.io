@@ -20,7 +20,7 @@ Coming soon!
 
 ## Feedback
 -----------
-https://forms.gle/QHAoygp3P2bHDZMx5
+[Link](https://forms.gle/QHAoygp3P2bHDZMx5)
 
 ## Donations
 ------------
