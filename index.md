@@ -18,10 +18,6 @@ In today's society, many people spend a lot of time working with their computers
 
 **Extra:** If you would like the app to launch at startup, go to System Preferences -> Users & Groups -> Login Items -> Add "20-20-20.app"
 
-### Windows
------------
-Coming soon!
-
 ## Feedback/Report a Bug
 -----------
 [Link](https://forms.gle/QHAoygp3P2bHDZMx5)
